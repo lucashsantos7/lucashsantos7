@@ -4,7 +4,6 @@
 - 🌱 Estudando Desenvolvimento Full Stack Junior
 - 📫 Contate-me no e-mail: lucashenriquedossantos7@gmail.com
 - 😄 Pronome: ele/dele
-- 
 <div align="center">
   <a href="https://github.com/lucashsantos7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashsantos7&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
